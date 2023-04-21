@@ -58,6 +58,6 @@ All different configurations tested (works: &#x2611; | crash: &#x2612; | not-don
 | 1.48.0@own/build | 17 | v142 | abseil/20211102.0 | Release | &#x2611; |
 | 1.48.0@own/build | 17 | v142 | abseil/20211102.0 | Debug | ? |
 | 1.48.0@own/build | 17 | v142 | abseil/20211102.0 | Release | &#x2611; |
-| 1.48.0@own/build | 17 | v140 | abseil/20220623.0 | Release | not buildable |
-| 1.48.0@own/build | 17 | v141 | abseil/20220623.0 | Release | &#x2612; |
-| 1.48.0@own/build | 17 | v142 | abseil/20220623.0 | Release | &#x2611; |
+| 1.52.1@own/build | 17 | v140 | abseil/20220623.0 | Release | not buildable |
+| 1.52.1@own/build | 17 | v141 | abseil/20220623.0 | Release | &#x2612; |
+| 1.52.1@own/build | 17 | v142 | abseil/20220623.0 | Release | &#x2611; |
