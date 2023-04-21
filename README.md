@@ -40,6 +40,8 @@ In cmd #2: (could probably do client in cpp that simulate this)
 
 ## Status
 
+All different configurations tested (works: &#x2611; | crash: &#x2612; | not-done: ?) | @own/build meaning grpc package build locally
+
 | grpc version | compiler version | compiler toolset | abseil version | config | status |
 | --- | --- | --- | --- | --- | --- |
 | 1.48.0 | 15 | v141 | abseil/20220623.0 | Debug | &#x2611; |
